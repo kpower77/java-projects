@@ -6,8 +6,8 @@
 package hello;
 
 /**
- *
- * @author x14101556
+ * @date Feb 2016
+ * @author Kenneth Power x14101556
  */
 public class Person {
 

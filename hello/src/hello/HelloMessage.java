@@ -13,8 +13,8 @@ public class HelloMessage {
     public static void main(String[] args) {
         
         //Set up GUI
-        //PersonGUI myGUI = new PersonGUI();
-        //myGUI.setVisible(true);
+        PersonGUI myGUI = new PersonGUI();
+        myGUI.setVisible(true);
         
         //Set up and add to ArrayList
         ArrayList<String> personInfo = new ArrayList<String>(); 
